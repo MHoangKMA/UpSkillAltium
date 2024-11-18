@@ -1,0 +1,13 @@
+- Thực hiện reset tên linh kiện thông qua: Tools --> Annotation --> Reset Sch Design..
+
+- Đánh số tự động tên linh kiện: Tools --> Annotation --> Force ...
+
+- Tools -> Annocate Sch: Cài đặt chiều đánh số tự động và đánh trên bao nhiêu sheet SCH (có lựa chọn), để đảm bảo việc đánh số tự động không bị trùng tên 
+- Có thể đảo chiều lật linh kiện thông qua việc dùng phím X hoặc Y 
+- Có lựa chọn Reset lại toàn bộ các component copy rồi đánh lại tự động 
+
+- Xem toàn bộ bản SCH: V - D
+- Xem toàn bộ các object: V - F (sẽ zoom to vào tất các các objects)
+- Xem 1 khu vực Area nào đó: v - A (Zoom to vào 1 khu vực tự chọn)
+- Muốn active components dùng: shift - C
+- Di chuyển ngang bản vẽ: Shift - con lăn trên chuột 
